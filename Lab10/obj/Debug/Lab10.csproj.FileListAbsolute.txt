@@ -1,0 +1,7 @@
+c:\users\anthony\source\repos\Lab10\Lab10\bin\Debug\Lab10.exe.config
+c:\users\anthony\source\repos\Lab10\Lab10\bin\Debug\Lab10.exe
+c:\users\anthony\source\repos\Lab10\Lab10\bin\Debug\Lab10.pdb
+c:\users\anthony\source\repos\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+c:\users\anthony\source\repos\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+c:\users\anthony\source\repos\Lab10\Lab10\obj\Debug\Lab10.exe
+c:\users\anthony\source\repos\Lab10\Lab10\obj\Debug\Lab10.pdb
